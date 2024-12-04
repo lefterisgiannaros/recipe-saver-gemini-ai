@@ -1,0 +1,76 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  #header {
+    display: flex;
+    justify-content: space-around;
+    background-color: #4CAF50;
+    padding: 15px;
+    color: white;
+    font-size: 18px;
+  }
+  
+  #header button {
+    background-color: #fff;
+    border: none;
+    color: #4CAF50;
+    padding: 10px 20px;
+    text-align: center;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 5px;
+  }
+  
+  #header button:hover {
+    background-color: #ddd;
+  }
+  
+  #content {
+    padding: 20px;
+  }
+  
+  #message {
+    margin-bottom: 20px;
+  }
+  
+  #savedRecipesContainer {
+    margin-top: 20px;
+  }
+  
+  .recipe {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .accordion {
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .panel {
+    display: none;
+    margin-top: 10px;
+    font-size: 14px;
+  }
+  
+  .delete-btn {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  .delete-btn:hover {
+    background-color: darkred;
+  }
+  
