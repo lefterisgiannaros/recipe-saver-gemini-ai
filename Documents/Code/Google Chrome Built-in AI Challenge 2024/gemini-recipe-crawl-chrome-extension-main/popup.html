@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gemini Nano Recipe Crawler</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="header">
+    <button id="crawlBtn">Crawl Recipe</button>
+    <button id="viewRecipesBtn">Saved Recipes</button>
+    <button id="exportBtn">Export Recipes</button>
+  </div>
+
+  <div id="content">
+    <div id="message"></div>
+    <div id="error"></div>
+
+    <div id="recipesList">
+      <input type="text" id="searchBar" placeholder="Search saved recipes..." style="display: none;" />
+      <div id="savedRecipesContainer"></div>
+    </div>
+  </div>
+
+  <script src="dist/bundle.js"></script> <!-- Link to your JavaScript file -->
+</body>
+</html>
