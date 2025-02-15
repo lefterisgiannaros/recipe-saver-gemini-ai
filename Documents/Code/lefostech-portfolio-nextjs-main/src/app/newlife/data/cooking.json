@@ -1,0 +1,94 @@
+{
+    "shoppingList": [
+      "Extra Virgin Olive Oil",
+      "Fresh Vegetables",
+      "Fruits",
+      "Whole Grains",
+      "Fish",
+      "Legumes",
+      "Nuts",
+      "Herbs",
+      "Greek Yogurt",
+      "Olives",
+      "Feta Cheese"
+    ],
+    "mealCalendar": {
+      "15/02/2025": {
+        "meals": [
+          { "name": "Greek Yogurt with Honey & Berries", "time": "12:00", "eaten": false },
+          { "name": "Mixed Greens Salad with Olives & Feta", "time": "14:00", "eaten": false },
+          { "name": "Whole Grain Pasta with Tomato & Veggies", "time": "16:00", "eaten": false },
+          { "name": "Grilled Fish with Quinoa & Broccoli", "time": "18:00", "eaten": false },
+          { "name": "Vegetable Stew with Legumes", "time": "20:00", "eaten": false }
+        ],
+        "fasting": []
+      },
+      "16/02/2025": {
+        "meals": [
+          { "name": "Overnight Oats with Fruit & Nuts", "time": "12:00", "eaten": false },
+          { "name": "Chickpea Salad with Cucumbers & Tomatoes", "time": "14:00", "eaten": false },
+          { "name": "Barley Risotto with Mushrooms", "time": "16:00", "eaten": false },
+          { "name": "Baked Salmon with Asparagus", "time": "18:00", "eaten": false },
+          { "name": "Lentil Soup with Spinach", "time": "20:00", "eaten": false }
+        ],
+        "fasting": []
+      },
+      "17/02/2025": {
+        "meals": [
+          { "name": "Avocado Toast with Poached Egg", "time": "12:00", "eaten": false },
+          { "name": "Tabbouleh Salad with Parsley", "time": "14:00", "eaten": false },
+          { "name": "Minestrone Soup", "time": "16:00", "eaten": false },
+          { "name": "Grilled Chicken with Roasted Vegetables", "time": "18:00", "eaten": false },
+          { "name": "Farro Salad with Feta & Olives", "time": "20:00", "eaten": false }
+        ],
+        "fasting": []
+      },
+      "18/02/2025": {
+        "meals": [
+          { "name": "Fruit Smoothie Bowl", "time": "12:00", "eaten": false },
+          { "name": "Spinach & Arugula Salad", "time": "14:00", "eaten": false },
+          { "name": "Quinoa with Roasted Veggies", "time": "16:00", "eaten": false },
+          { "name": "Herb-Crusted Cod with Brown Rice", "time": "18:00", "eaten": false },
+          { "name": "Stuffed Eggplant with Tomato Sauce", "time": "20:00", "eaten": false }
+        ],
+        "fasting": []
+      },
+      "19/02/2025": {
+        "meals": [
+          { "name": "Chia Pudding with Fresh Berries", "time": "12:00", "eaten": false },
+          { "name": "Roasted Beet & Goat Cheese Salad", "time": "14:00", "eaten": false },
+          { "name": "Whole Grain Couscous with Vegetables", "time": "16:00", "eaten": false },
+          { "name": "Grilled Shrimp with Lemon & Garlic", "time": "18:00", "eaten": false },
+          { "name": "Vegetable Paella", "time": "20:00", "eaten": false }
+        ],
+        "fasting": []
+      },
+      "20/02/2025": {
+        "meals": [
+          { "name": "Smoothie with Spinach, Banana & Almond Milk", "time": "12:00", "eaten": false },
+          { "name": "Roasted Vegetable Salad", "time": "14:00", "eaten": false },
+          { "name": "Pasta with Pesto & Cherry Tomatoes", "time": "16:00", "eaten": false },
+          { "name": "Grilled Mackerel with Steamed Broccoli", "time": "18:00", "eaten": false },
+          { "name": "Chickpea Stew", "time": "20:00", "eaten": false }
+        ],
+        "fasting": []
+      },
+      "21/02/2025": {
+        "meals": [
+          { "name": "Oatmeal with Almond Butter & Banana", "time": "12:00", "eaten": false },
+          { "name": "Greek Salad with Feta", "time": "14:00", "eaten": false },
+          { "name": "Vegetable Lasagna", "time": "16:00", "eaten": false },
+          { "name": "Grilled Turkey with Mixed Vegetables", "time": "18:00", "eaten": false },
+          { "name": "Eggplant Parmesan", "time": "20:00", "eaten": false }
+        ],
+        "fasting": []
+      }
+    },
+    "mealPrep": [
+      "Chop vegetables for salads and stir-fry",
+      "Marinate fish and poultry",
+      "Prepare grains in advance",
+      "Make homemade hummus"
+    ]
+  }
+  
